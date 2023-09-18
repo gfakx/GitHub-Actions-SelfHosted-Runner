@@ -88,7 +88,8 @@ img 2.3.a
 4. **Starting the Runner**:
    - Start the runner to listen for jobs.
    - `./run.sh`
-
+![Alt text](./images/workflow.png)
+img 2.4.a
 ---
 
 ## Iteration 3: Runner Configuration for Python Workflow
