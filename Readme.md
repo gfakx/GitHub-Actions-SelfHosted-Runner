@@ -68,7 +68,7 @@ img 1.8.b
    - In the left sidebar, click on "Actions".
    - Under the "Self-hosted runners" section, click the "Add runner" button.
 
-![Alt text](./images/settings.png)
+![Alt text](./images/Settings.png)
 img 2.1.a
 ![Alt text](./images/Actions.png)
 img 2.1.b
